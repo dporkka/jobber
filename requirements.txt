@@ -94,7 +94,7 @@ jsonschema-specifications==2023.12.1
     # via jsonschema
 langsmith==0.1.104
     # via jobber (pyproject.toml)
-litellm==1.44.4
+litellm
     # via jobber (pyproject.toml)
 markupsafe==2.1.5
     # via jinja2

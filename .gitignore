@@ -1,5 +1,9 @@
-.env
+# Virtual Environment
+venv/
 .venv/
+
+# Environment Variables
+.env
 __pycache__
 log_files/
 logs/

@@ -1,26 +1,51 @@
 Personal Info:
-First Name: Nischal
-Last Name: Jain
-Date of birth: 
+First Name: David
+Last Name: Porkka   
+Date of birth: 11/11/1991
 Pronouns: He/Him
 
-Email: 
-Expeted Salary: 5000000
-Occupation: Data Engineer
-Address: Indiranagr, Bengaluru
-Phone Number: 
-LinkedIn - https://linkedin.com/in/nischalj10
+Email: davidporkka@gmail.com
+Expeted Salary: 100000
+Occupation: Web Designer & Developer
+Address: Denver, Colorado, USA
+Phone Number: +1 262-706-1357
+LinkedIn - https://linkedin.com/in/david-porkka
 
 
 Here are some of my preferences:
 Shopping Preferences: www.amazon.com
-Favorite news source: www.thehindu.com
+Favorite news source: www.google.com
 Favorite flight booking site to use with every flight related query: https://www.google.com/travel/flightsno
-Resume File to Upload Path = /Users/namanjain/Downloads/DummyResume.pdf
-My best project - checkout headless-ollama on google
+Resume File to Upload Path = \Users\Lenovo\Downloads\David-Porkka-Web-Dev-Resume.pdf
+Resume File = \Users\Lenovo\projects\jobber\markdown-resume.md
+My best projects - dribbble.com/dapodigital
 
 
-I am comfortable commuting to office.
+I am only interested in remote jobs.
 I have 4 years of experience in TypeScript, Node Js, Nextjs.
-I have work authorization for working in the USA.
-I have experience in cloud infrastructure, data warheouses.
+I have 7 years of development and design experience.
+I have work authorization for working in the USA and am a US citizen.
+I have experience with cloud infrastructure.
+I love learning about new technologies and frameworks.
+I am a quick learner and can pick up new technologies quickly.
+I am a team player and can work in a team.
+I am a good communicator and can communicate with others.
+I am a good problem solver and can solve problems.
+I am a good writer and can write well.
+I am not a veteran.
+I am white. 
+I am a citizen of the United States.
+I have a Bachelor's degree in Science.
+I don't have any disabilities.
+I am not a student.
+I am not a recent graduate.
+I am not a recent college graduate.
+I am not a recent high school graduate.
+I am not a recent college graduate.
+I am not a recent high school graduate.
+I am willing to work overtime.
+I am willing to work weekends.
+I am willing to work nights.
+I am willing to work on holidays.
+I am willing to work in a team.
+
